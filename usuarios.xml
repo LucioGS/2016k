@@ -1,0 +1,49 @@
+<?xml version='1.0'  encoding='UTF-8'?>
+<usuarios>
+	<usuario>
+		<id>1</id>
+		<nombre>María Luisa</nombre>
+		<apellidos>Jimeno Huertas</apellidos>
+		<telefono>654666543</telefono>
+		<email>ddsfs@gmail.com</email>
+		<direccion>Las Pameras 13</direccion>
+		<localidad>Toledo</localidad>
+	</usuario>
+	<usuario>
+		<id>2</id>
+		<nombre>Ernesto</nombre>
+		<apellidos>López López</apellidos>
+		<telefono>675444321</telefono>
+		<email>hjhjg@gmail.com</email>
+		<direccion>Castellote 45</direccion>
+		<localidad>Sevilla</localidad>
+	</usuario>
+	<usuario>
+		<id>3</id>
+		<nombre>Francisca</nombre>
+		<apellidos>Mesas Castillo</apellidos>
+		<telefono>675554332</telefono>
+		<email>ljlklk@gmail.com</email>
+		<direccion>Vitrunio 32</direccion>
+		<localidad>Vigo</localidad>
+	</usuario>
+	<usuario>
+		<id>4</id>
+		<nombre>Ana María</nombre>
+		<apellidos>Casas Jiménez</apellidos>
+		<telefono>678900898</telefono>
+		<email>fdsfd@gmail.com</email>
+		<direccion>Alcalde Solís 4</direccion>
+		<localidad>Gerona</localidad>
+	</usuario>
+	<usuario>
+		<id>5</id>
+		<nombre>Gonzalo</nombre>
+		<apellidos>Sánchez de la Serna</apellidos>
+		<telefono>653449908</telefono>
+		<email>kljljl@gmail.com</email>
+		<direccion>Benavente 8</direccion>
+		<localidad>Albacete</localidad>
+	</usuario>
+</usuarios>
+

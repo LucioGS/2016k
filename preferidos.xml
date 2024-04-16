@@ -1,0 +1,44 @@
+<?xml version='1.0'  encoding='UTF-8'?>
+<preferidos>
+	<preferido>
+		<id_usuario>1</id_usuario>
+		<id_recurso>tt0118688</id_recurso>
+	</preferido>
+	<preferido>
+		<id_usuario>1</id_usuario>
+		<id_recurso>tt18689424</id_recurso>
+	</preferido>
+	<preferido>
+		<id_usuario>2</id_usuario>
+		<id_recurso>tt0068646</id_recurso>
+	</preferido>
+	<preferido>
+		<id_usuario>2</id_usuario>
+		<id_recurso>tt0078748</id_recurso>
+	</preferido>
+	<preferido>
+		<id_usuario>3</id_usuario>
+		<id_recurso>tt0034583</id_recurso>
+	</preferido>
+	<preferido>
+		<id_usuario>3</id_usuario>
+		<id_recurso>tt0099348</id_recurso>
+	</preferido>
+	<preferido>
+		<id_usuario>4</id_usuario>
+		<id_recurso>tt1179056</id_recurso>
+	</preferido>
+	<preferido>
+		<id_usuario>4</id_usuario>
+		<id_recurso>tt0068646</id_recurso>
+	</preferido>
+	<preferido>
+		<id_usuario>5</id_usuario>
+		<id_recurso>tt0034583</id_recurso>
+	</preferido>
+	<preferido>
+		<id_usuario>5</id_usuario>
+		<id_recurso>tt0099348</id_recurso>
+	</preferido>
+</preferidos>
+
